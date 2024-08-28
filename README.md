@@ -13,7 +13,7 @@ description:
   }}
  />
 **DELAWARE: 3 electors were chosen by state legislature and awarded to John Quincy Adams*
-***SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
 
 ## 1832
 
