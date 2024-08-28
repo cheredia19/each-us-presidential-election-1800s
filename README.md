@@ -3,6 +3,39 @@ title: Each US presidential election (1800-1896)
 description: 
 ---
 
+## 1840
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1840_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Martin van Buren*
+
+## 1844
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1844_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 9 electors were chosen by state legislature and awarded to James K. Polk*
+
+## 1848
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1848_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 9 electors were chosen by state legislature and awarded to Lewis Cass*
+
 ## 1852
 
 ### Popular and electoral votes by candidate and state
@@ -24,7 +57,6 @@ description:
   }}
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to James Buchanan*
-
 
 ## 1860
 
