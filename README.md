@@ -12,6 +12,7 @@ description:
     url: '1824_elec_pop_perc.csv'
   }}
  />
+*(1)DELAWARE: 3 electors were chosen by state legislature: 2 for William Crawford; 1 for John Quincy Adams<br />(2)GEORGIA: 9 electors were chosen by state legislature and awarded to Crawford<br />(3)LOUISIANA: 5 electors were chosen by state legislature: 3 for Andrew Jackson; 2 for Adams<br />(4)NEW YORK: 36 electors were chosen by state legislature: 26 to Adams; 1 to Jackson; 4 to Henry Clay; 5 to Crawford<br />(5)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson<br />(6)VERMONT: 7 electors were chosen by state legislature and awarded to John Quincy Adams*
 
 ## 1828
 
@@ -22,7 +23,7 @@ description:
     url: '1828_elec_pop_perc.csv'
   }}
  />
-*(1)DELAWARE: 3 electors werechosen by state legislature and awarded to John Quincy Adams<br />(2)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
+*(1)DELAWARE: 3 electors were chosen by state legislature and awarded to John Quincy Adams<br />(2)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
 
 ## 1832
 
