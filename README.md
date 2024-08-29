@@ -3,6 +3,16 @@ title: Each US presidential election (1840-1896)
 description: 
 ---
 
+## 1824
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1824_elec_pop_perc.csv'
+  }}
+ />
+
 ## 1840
 
 ### Popular and electoral votes by candidate and state
