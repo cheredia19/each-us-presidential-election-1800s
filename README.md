@@ -13,6 +13,19 @@ description:
   }}
  />
 
+## 1828
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1828_elec_pop_perc.csv'
+  }}
+ />
+*(1)DELAWARE: 3 electors werechosen by state legislature and awarded to John Quincy Adams*
+*(2)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
+
+
 ## 1832
 
 ### Popular and electoral votes by candidate and state
