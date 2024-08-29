@@ -22,7 +22,7 @@ description:
     url: '1832_elec_pop_perc.csv'
   }}
  />
-**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to John Floyd*
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to independent candidate John Floyd, who got no popular votes*
 
 ## 1836
 
@@ -33,7 +33,7 @@ description:
     url: '1836_elec_pop.csv'
   }}
  />
-**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Willie Person Mangum, who got no popular votes*
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to whig candidate Willie Person Mangum, who got no popular votes*
 
 ## 1840
 
