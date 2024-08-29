@@ -13,6 +13,18 @@ description:
   }}
  />
 
+## 1836
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1836_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Willie Person Mangum, who got no popular votes*
+
+
 ## 1840
 
 ### Popular and electoral votes by candidate and state
