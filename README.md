@@ -189,6 +189,8 @@ description:
 
 ## 1892
 
+### Popular votes by candidate
+
 <FlatUiTable
   data={{
     url: '1892_pop_vote.csv'
