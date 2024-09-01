@@ -159,6 +159,14 @@ description:
 
 ## 1880
 
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1880_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
