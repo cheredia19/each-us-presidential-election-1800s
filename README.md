@@ -27,6 +27,14 @@ description:
 
 ## 1832
 
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1832_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
