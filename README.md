@@ -189,6 +189,12 @@ description:
 
 ## 1892
 
+<FlatUiTable
+  data={{
+    url: '1892_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
