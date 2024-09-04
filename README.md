@@ -1,7 +1,18 @@
 ---
-title: Each US presidential election (1840-1896)
+title: Each US presidential election (1800-1896)
 description: 
 ---
+
+## 1820
+
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1824_pop_vote.csv'
+  }}
+ />
+ **Popular vote totals were not retained until the Election of 1824*
 
 ## 1824
 
