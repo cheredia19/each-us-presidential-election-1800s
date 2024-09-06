@@ -9,10 +9,10 @@ description:
 
 <FlatUiTable
   data={{
-    url: '1824_pop_vote.csv'
+    url: '1820_pop_votes.csv'
   }}
  />
- **Popular vote totals were not retained until the Election of 1824*
+ **Popular vote totals by state were not available until the Election of 1824*
 
 ## 1824
 
