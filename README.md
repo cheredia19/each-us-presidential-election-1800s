@@ -3,6 +3,16 @@ title: Each US presidential election (1800-1896)
 description: 
 ---
 
+## 1800
+
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1800_pop_vote.csv'
+  }}
+ />
+
 ## 1804
 
 ### Popular votes by candidate
