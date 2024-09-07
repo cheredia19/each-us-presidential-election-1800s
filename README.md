@@ -93,7 +93,6 @@ description:
   }}
  />
 
-
 ## 1820
 
 ### Popular votes by candidate
@@ -104,6 +103,14 @@ description:
   }}
  />
  **Popular vote totals by state were not available until the Election of 1824*
+
+ ### Electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1820_elec_state.csv'
+  }}
+ />
 
 ## 1824
 
