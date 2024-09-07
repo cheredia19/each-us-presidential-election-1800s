@@ -13,6 +13,14 @@ description:
   }}
  />
 
+### Electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1800_elec_state.csv'
+  }}
+ />
+
 ## 1804
 
 ### Popular votes by candidate
