@@ -67,7 +67,7 @@ description:
   }}
  />
 
- ### Electoral votes by candidate and state
+### Electoral votes by candidate and state
 
 <FlatUiTable
   data={{
@@ -84,6 +84,15 @@ description:
     url: '1816_pop_vote.csv'
   }}
  />
+
+### Electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1816_elec_state.csv'
+  }}
+ />
+
 
 ## 1820
 
