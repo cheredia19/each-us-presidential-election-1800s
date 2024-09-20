@@ -414,7 +414,7 @@ description:
   }}
  />
 
-## 1888
+## 1888 | Benjamin Harrison (R) v. Grover Cleveland (D)
 
 ### Popular votes by candidate
 
@@ -432,7 +432,9 @@ description:
   }}
  />
 
-## 1892
+## 1892 | Grover Cleveland (D) v. Benjamin Harrison (R)
+
+
 
 ### Popular votes by candidate
 
