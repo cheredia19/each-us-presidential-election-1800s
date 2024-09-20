@@ -452,6 +452,14 @@ description:
 
 ## 1896
 
+The 1896 presidential election was on November 3, 1896, with Republican **William McKinley** and 36-year-old Democrat **William Jennings Bryan** battling in a campaign considered by historians a [turning point in American history](https://www.proquest.com/docview/213739688?sourcetype=Scholarly%20Journals).
+
+The race occurred during the [Panic of 1893](https://www.historylink.org/file/20874) economic depression. McKinley conducted a "front porch campaign" in which he remained at home in Canton, Ohio, and lots of supporters were brought in to hear him deliver short speeches tailored for his audiences.
+
+In contrast, Bryan traveled widely and asked his audiences for their votes. His campaign train stopped at towns and hamlets and the candidate delighted his largely rural listeners with his flamboyant oratory. 
+
+In the early fall of 1896, many observers believed Bryan was the frontrunner, but in the end, McKinley achieved the victory. Massive Republican advertising and the faltering economy worked heavily against the Democrats. 
+
 ### Popular votes by candidate
 
 <FlatUiTable
