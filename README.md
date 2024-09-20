@@ -450,7 +450,7 @@ description:
   }}
  />
 
-## 1896
+## 1896 | William McKinley (R) v. William Jennings Bryan (D)
 
 The 1896 presidential election was on November 3, 1896, with Republican **William McKinley** and 36-year-old Democrat **William Jennings Bryan** battling in a campaign considered by historians a [turning point in American history](https://www.proquest.com/docview/213739688?sourcetype=Scholarly%20Journals).
 
