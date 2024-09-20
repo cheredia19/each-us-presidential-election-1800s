@@ -434,7 +434,13 @@ description:
 
 ## 1892 | Grover Cleveland (D) v. Benjamin Harrison (R)
 
+Former President, Democratic candidate **Grover Cleveland** ran for re-election against the incumbent, Republican **Benjamin Harrison**, who was also running for re-election. 
 
+The winner would become the only person in U.S. history elected to a second, non-consecutive presidential term, a feat that can be achieved by Donald Trump if he wins the 2024 residential election. 
+
+Cleveland had won the popular vote against Harrison in 1888 but lost the electoral vote which cost him re-election. This time, he won the popular and electoral votes. The Democrat nominee enjoyed solid support in the South and the Swing States, and managed to draw votes from Republicans who were unhappy with Harrison
+
+The campaign centered mainly on the issue of a sound currency. The new Populist Party, formed by groups from the Grange, the Farmers' Alliances, and the Knights of Labor, polled more than a million votes. 
 
 ### Popular votes by candidate
 
