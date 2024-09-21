@@ -188,7 +188,11 @@ description:
  />
 **SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to whig candidate Willie Person Mangum, who got no popular votes*
 
-## 1840
+## 1840 | William Henry Harrison (W) v. Martin Van Buren (D)
+
+The 1840 presidential election saw incumbent **Martin Van Buren** fight for re-election against an economic depression (epitomized by the [Panic of 1837](https://www.library.hbs.edu/hc/crises/1837.html)) and a Whig Party unified for the first time behind war hero **William Henry Harrison**, who easily defeated Van Buren in the Electoral College even though popular vote was close.
+
+This election was unique in that electors cast votes for four men who had been or would become President of the United States: current President Martin Van Buren; President-elect William Henry Harrison; Vice-President-elect John Tyler, who would succeed Harrison upon [his death](https://www.whitehouse.gov/about-the-white-house/presidents/william-henry-harrison/); and James K. Polk, who received one electoral vote for Vice President.
 
 ### Popular votes by candidate
 
