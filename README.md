@@ -321,7 +321,15 @@ description:
  />
 **NOTE: Eleven Confederate states did not participate in the election because of the [Civil War](https://www.britannica.com/event/American-Civil-War)*
 
-## 1868
+## 1868 | Ulysses S. Grant (R) v. Horatio Seymour (D)
+
+The 1868 presidential election was the first during [Reconstruction](https://www.britannica.com/event/Reconstruction-United-States-history). Texas, Mississippi, and Virginia, three former Confederate states, were not yet restored to the Union and could not vote in the election.
+
+Incumbent President Andrew Johnson, who had ascended to the Presidency in 1865 following the assassination of President Abraham Lincoln, couldn't capitalize the Democratic presidential nomination because he had alienated so many people and had not built up a political base. Instead, the Democrats nominated **Horatio Seymour** to take on the Republican candidate, Civil War hero General **Ulysses S. Grant**. 
+
+The Republican campaign constantly reminded the voters of the Democrats' lack of support for the war effort. Seymour was also attacked for backing an inflationary scheme (repayment of the war debt in [greenbacks](https://www.moaf.org/exhibits/checks_balances/abraham-lincoln/greenback)).
+
+Grant won convincingly in the Electoral College, but the popular vote margin was only about 304,000. 
 
 ### Popular votes by candidate
 
