@@ -207,7 +207,7 @@ description:
  />
 **SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Martin van Buren*
 
-## 1844
+## 1844 | James K. Polk (D) v. Henry Clay (W)
 
 ### Popular votes by candidate
 
@@ -236,7 +236,7 @@ Then, in the summer, the Whigs nominated the hero of the war, **Zachary Taylor**
 
 The Democrats had a record of victory, peace, prosperity, and the acquisition of Oregon and the Southwest. They appeared winners until the Whigs picked Taylor. 
 
-Taylor's victory made him one of only two Whigs elected President before the party ceased to exist in the 1850s. The other Whig to be elected President was William Henry Harrison, who had also been a general and war hero but died a month into office.
+Taylor's victory made him one of only two Whigs elected President before the party ceased to exist in the 1850s. The other Whig to be elected President was William Henry Harrison, who had also been a general and war hero but died after a month into office.
 
 ### Popular votes by candidate
 
