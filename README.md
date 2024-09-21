@@ -209,6 +209,14 @@ description:
 
 ## 1844 | James K. Polk (D) v. Henry Clay (W)
 
+In the 1844 presidential election, Democratic nominee **James K. Polk** embraced American territorial expansionism. At their convention, the Democrats called for the annexation of Texas while his contender, Whig **Henry Clay** opposed it. Polk also asserted that the United States had a *clear and unquestionable* claim to *the whole* of Oregon. 
+
+By informally tying the Oregon boundary dispute to the more controversial Texas debate, the Democrats appealed to both Northern expansionists (who were more adamant about the Oregon boundary) and Southern expansionists (who were more focused on annexing Texas as a slave state). 
+
+Polk's margin in the Electoral College was substantial, but the popular vote was extremely close. His boisterous expansionism played very well in the West. He lost just Ohio and Tennessee. 
+
+The anti-slavery campaign of **James G. Birney** of the Liberty Party drew away sufficient votes to deny Clay the presidency.
+
 ### Popular votes by candidate
 
 <FlatUiTable
