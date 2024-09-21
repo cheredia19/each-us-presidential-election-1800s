@@ -398,6 +398,16 @@ description:
 
 ## 1884 | Grover Cleveland (D) v. James Blaine (R)
 
+The United States presidential election of 1884 featured excessive mudslinging and personal acrimony.
+
+**Grover Cleveland**, the Democratic nominee, had fathered an illegitimate child years earlier in Buffalo. He had taken full financial responsibility for his offspring and publicly acknowledged that he had made a mistake. 
+
+His counterpart, Republican **James G. Blaine**, apparently engaged in questionable investment schemes while on the public payroll. Much of the campaign furor revolved around the difference between private and public misdeeds.
+
+On November 4, 1884, Cleveland narrowly defeated Blaine to become the first Democrat elected President of the United States in 28 years (before the American Civil War). 
+
+New York decided the election, awarding Cleveland the state's 36 electors by just 1,047 votes.
+
 ### Popular votes by candidate
 
 <FlatUiTable
