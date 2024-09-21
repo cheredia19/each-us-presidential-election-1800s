@@ -378,7 +378,15 @@ description:
  />
 **COLORADO: 3 electors were chosen by state legislature and awarded to Rutherford B. Hayes*
 
-## 1880
+## 1880 | James Garfield (R) v. Winfield Hancock (D)
+
+Incumbent President Rutherford Hayes did not seek re-election, keeping a promise made during the 1876 race. The Republican Party eventually chose **James A. Garfield**, as their standard-bearer. The Democratic Party chose Civil War General **Winfield S. Hancock** as their nominee. 
+
+The campaign yielded little discussion on the hard issues. Both major parties tip-toed around the currency issue, avoided civil service reform, supported immigration restriction and hefty pensions for Civil War veterans. 
+
+However, the Republicans favored higher tariffs while the Democrats supported lower ones.
+
+The popular vote was very close, but the electoral tally was decisively in favor of Garfield, capturing 214 out of 369 electoral votes. It is one of the smallest popular vote margins in American history.
 
 ### Popular votes by candidate
 
