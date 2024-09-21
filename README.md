@@ -416,6 +416,12 @@ description:
 
 ## 1888 | Benjamin Harrison (R) v. Grover Cleveland (D)
 
+The tariff was the biggest issue in the United States 1888 presidential election. **Benjamin Harrison**, the Republican candidate, opposed tariff reduction, while the policies of incumbent President **Grover Cleveland** on pensions, the currency, and tariff reform had made enemies among veterans, farmers, and industrialists. 
+
+Even with this handicap, the Democrat had more popular votes than Harrison. However, Harrison received more support from the Electoral College and won the election.
+
+It was the third time in history (it previously happened in 1824 and 1876) when the popular vote winner was defeated. It did not occur again until the 2000 election (George W. Bush v. Al Gore).
+
 ### Popular votes by candidate
 
 <FlatUiTable
