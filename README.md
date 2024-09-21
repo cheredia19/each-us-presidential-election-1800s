@@ -247,6 +247,14 @@ description:
 
 ## 1852
 
+The 1856 presidential election was an unusually heated contest that led to the election of Democratic candidate **James Buchanan**, who had been the minister of Britain from 1853 to 1856.
+
+The incumbent President, Franklin Pierce, was defeated in his effort to be renominated by the Democrats (their official party slogan that year was "Anybody but Pierce").
+
+The Republicans ran their first presidential campaign that year, choosing noted Western explorer **John C. Frémont**, who condemned the [Kansas-Nebraska Act](https://www.senate.gov/artandhistory/history/minute/Kansas_Nebraska_Act) and crusaded against the Slave Power and the expansion of slavery.
+
+Former President **Millard Fillmore** represented a third party. He earned a little over a fifth of the popular vote.
+
 ### Popular votes by candidate
 
 <FlatUiTable
