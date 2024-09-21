@@ -264,7 +264,7 @@ description:
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to Franklin Pierce*
 
-## 1856
+## 1856 | James Buchanan (D) v. John C. Frémont (R)
 
 ### Popular votes by candidate
 
