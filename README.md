@@ -226,7 +226,17 @@ description:
  />
 **SOUTH CAROLINA: 9 electors were chosen by state legislature and awarded to James K. Polk*
 
-## 1848
+## 1848 | Zachary Taylor (W) v. Lewis Cass (D)
+
+The 1848 presidential race was wide open. President James Polk, having achieved all of his main objectives in one term and suffering from declining health that would take his life less than four months after leaving office, kept his promise not to seek re-election.
+
+The Whigs in 1846-47 had focused all their energies on condemning Polk's war policies. They had to reverse course. In February 1848, Polk enacted the [Treaty of Guadalupe Hidalgo](https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo) that ended the [Mexican-American War](https://www.britannica.com/event/Mexican-American-War) and gave the U.S. vast new territories (including California, Nevada, Utah, and parts of Wyoming, Colorado, Arizona, and New Mexico). The Whigs in the Senate voted 2-1 to approve the treaty. 
+
+Then, in the summer, the Whigs nominated the hero of the war, **Zachary Taylor**. While he did promise no more future wars, he did not condemn the war or criticize Polk, and Whigs had to follow his lead. They shifted their attention to slavery in new territories. 
+
+The Democrats had a record of victory, peace, prosperity, and the acquisition of Oregon and the Southwest. They appeared winners until the Whigs picked Taylor. 
+
+Taylor's victory made him one of only two Whigs elected President before the party ceased to exist in the 1850s. The other Whig to be elected President was William Henry Harrison, who had also been a general and war hero but died a month into office.
 
 ### Popular votes by candidate
 
