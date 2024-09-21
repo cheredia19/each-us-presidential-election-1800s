@@ -396,7 +396,7 @@ description:
   }}
  />
 
-## 1884
+## 1884 | Grover Cleveland (D) v. James Blaine (R)
 
 ### Popular votes by candidate
 
