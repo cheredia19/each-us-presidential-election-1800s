@@ -340,7 +340,13 @@ description:
  />
 **FLORIDA: 3 electors were chosen by state legislature and awarded to Ulysses Grant*
 
-## 1872
+## 1872 | Ulysses S. Grant (R) v. Horace Greeley (D)
+
+Incumbent President **Ulysses S. Grant**, leader of the Radical Republicans, was easily elected to a second term in office despite a split within the Republican Party that resulted in a defection of many Liberal Republicans to opponent **Horace Greeley**. The Democratic Party also nominated the candidates of the Liberal Republican ticket that year.
+
+Greeley died on November 29, 1872, after the popular vote but before the Electoral College cast its votes. As a result, electors previously committed to Greeley voted for four candidates for President and eight nominees for Vice President. Greeley himself received three posthumous electoral votes, but these votes were disallowed by Congress. 
+
+It was the only election in which a Presidential candidate died during the electoral process.
 
 ### Popular votes by candidate
 
