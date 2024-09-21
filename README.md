@@ -247,7 +247,15 @@ description:
 
 ## 1852 | Franklin Pierce (D) v. Winfield Scott (W)
 
+Little suspense existed in the 1852 presidential election. The Whig Party was barely clinging to life, so a Democratic victory was practically assured. Slavery, the only real issue of the day, was assiduously avoided by both sides. 
 
+None of the Democratic initial candidates secured the necessary two-thirds vote at the convention. The nomination eventually went to **Franklin Pierce**. 
+
+The nearly moribund Whigs pinned their hopes on a military hero, General **Winfield Scott**. The Free-Soil Party appeared again, drawing off votes from the Whigs. 
+
+Scott's military record brought him a healthy popular vote total, but the results in the electoral college were a landslide for Pierce, one of the largest at the time. 
+
+After the 1852 election, the Whig Party quickly collapsed, and the members of the declining party failed to nominate a candidate for the next presidential race. The new Republican Party soon became the Democrat primary opposition.
 
 ### Popular votes by candidate
 
