@@ -359,7 +359,7 @@ description:
  />
 **Horace Greeley died on November 29, 1872, after the popular election, but before the Electoral College met. His electoral votes were split among four individuals including 18 for Benjamin Gratz Brown, Greeley's running mate*
 
-## 1876
+## 1876 | Rutherford Hayes (R) v. Samuel Tilden (D)
 
 ### Popular votes by candidate
 
