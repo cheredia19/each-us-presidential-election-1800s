@@ -169,7 +169,16 @@ description:
  />
 **SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to independent candidate John Floyd, who got no popular votes*
 
-## 1836
+## 1836 | Martin Van Buren (D) v. several Whig candidates
+
+Democratic **Martin Van Buren** faced no opposition for his party nomination to the 1836 presidential election.
+
+The Whigs, however, were split and decided to field several candidates in the hope of having the issue decided by the House of Representatives. 
+
+**William Henry Harrison**, hero of the [Battle of Tippecanoe](https://www.battlefields.org/learn/war-1812/battles/tippecanoe), hoped to gain the support of Western voters. **Daniel Webster** had strength in New England, and **Hugh Lawson White** had backing in the South. It was the only race in which a major political party intentionally did such a thing.
+
+Van Buren won the election with 50.8% of the popular preference and 176 electoral votes. The Whigs, however, were able to make significant gains in Congress. 
+
 
 ### Popular votes by candidate
 
