@@ -245,15 +245,9 @@ description:
  />
 **SOUTH CAROLINA: 9 electors were chosen by state legislature and awarded to Lewis Cass*
 
-## 1852
+## 1852 | Franklin Pierce (D) v. Winfield Scott (W)
 
-The 1856 presidential election was an unusually heated contest that led to the election of Democratic candidate **James Buchanan**, who had been the minister of Britain from 1853 to 1856.
 
-The incumbent President, Franklin Pierce, was defeated in his effort to be renominated by the Democrats (their official party slogan that year was "Anybody but Pierce").
-
-The Republicans ran their first presidential campaign that year, choosing noted Western explorer **John C. Frémont**, who condemned the [Kansas-Nebraska Act](https://www.senate.gov/artandhistory/history/minute/Kansas_Nebraska_Act) and crusaded against the Slave Power and the expansion of slavery.
-
-Former President **Millard Fillmore** represented a third party. He earned a little over a fifth of the popular vote.
 
 ### Popular votes by candidate
 
@@ -273,6 +267,16 @@ Former President **Millard Fillmore** represented a third party. He earned a lit
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to Franklin Pierce*
 
 ## 1856 | James Buchanan (D) v. John C. Frémont (R)
+
+The 1856 presidential election was an unusually heated contest that led to the election of Democratic candidate **James Buchanan**, who had been the minister of Britain from 1853 to 1856.
+
+The incumbent President, Franklin Pierce, was defeated in his effort to be renominated by the Democrats (their official party slogan that year was "Anybody but Pierce").
+
+The Republicans ran their first presidential campaign that year, choosing noted Western explorer **John C. Frémont**, who condemned the [Kansas-Nebraska Act](https://www.senate.gov/artandhistory/history/minute/Kansas_Nebraska_Act) and crusaded against the Slave Power and the expansion of slavery.
+
+Former President **Millard Fillmore** represented a third party. He earned a little over a fifth of the popular vote.
+
+It was the last time the Democratic Party won an election until 1880.
 
 ### Popular votes by candidate
 
