@@ -283,7 +283,17 @@ description:
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to James Buchanan*
 
-## 1860
+## 1860 | Abraham Lincoln (R) v. John Breckenridge (SD), John Bell (CU), and Stephen Douglas (D)
+
+The United States presidential election of 1860 set the stage for the American Civil War. The nation was divided on questions regarding states' rights and slavery in the territories. 
+
+In 1860, this issue finally came to a head, fracturing the formerly dominant Democratic Party into Southern and Northern factions.
+
+Southern elements insisted that the nominating convention make a strong statement supporting slavery in the territories. Western elements, however, opposed that stance. The latter position prevailed and the Southern delegates walked out.
+
+The Northern Democrats later met in Baltimore and nominated **Stephen A. Douglas**. The Southern Democrats reconvened in Richmond and nominated **John C. Breckinridge**. A moderate position was sought by the Constitutional Union Party, which nominated **John Bell**.
+
+The election brought **Abraham Lincoln** and the Republican Party to power without the support of a single Southern state. Hardly more than a month following Lincoln's victory came declarations of secession by South Carolina and other states, which were rejected as illegal by the then-current President, James Buchanan, and President-elect Lincoln.
 
 ### Popular votes by candidate
 
