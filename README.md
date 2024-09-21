@@ -361,6 +361,13 @@ description:
 
 ## 1876 | Rutherford Hayes (R) v. Samuel Tilden (D)
 
+The 1876 presidential election was one of the most disputed in American history. **Samuel J. Tilden** of New York outpolled Ohio's **Rutherford B. Hayes** in popular votes and achieved 184 electoral votes to Hayes' 165, with 20 votes uncounted. 
+
+These 20 electoral votes were in dispute: in three states (Florida, Louisiana, and South Carolina), each party reported its candidate had won the state, while in Oregon, one elector was declared illegal (as an "elected or appointed official") and replaced. 
+
+The states with disputed votes submitted two sets of electoral ballots, one favoring Tilden, the other Hayes. The Constitution had not foreseen this event. There were rumors in some quarters about the possibility of a war. In the end, Congress appointed an "impartial" [Electoral Commission](https://www.britannica.com/topic/Electoral-Commission) to find a solution.
+
+The 20 disputed electoral votes were ultimately awarded to Hayes after a bitter legal and political battle, giving him the victory. According to historians, the informal [Compromise of 1877](https://www.ncpedia.org/anchor/compromise-1877) was struck to resolve the dispute. Tilden and the Democratic Party accepted a GOP victory, while Hayes pledged to withdraw federal troops from the states of the former Confederacy, effectively ending Reconstruction.
 
 ### Popular votes by candidate
 
