@@ -361,6 +361,14 @@ description:
 
 ## 1876 | Rutherford Hayes (R) v. Samuel Tilden (D)
 
+Incumbent President Rutherford Hayes did not run for re-election, thus fulfilling a promise made during the 1876 contest. The Republican Party ultimately chose **James A. Garfield**, as its candidate, while the Democratic Party nominated Civil War General **Winfield S. Hancock**.
+
+There was little debate on the major issues during the campaign. Both major parties tiptoed around the money question, avoided civil service reform, and supported high pensions for Civil War veterans as well as restrictions on immigration.
+
+The difference was in tariffs. Republicans favored higher tariffs, while Democrats supported lower ones.
+
+The popular vote was very close, one of the smallest margins in U.S. history, but the electoral tally openly favored Garfield by winning 214 of 369 electoral votes.
+
 ### Popular votes by candidate
 
 <FlatUiTable
