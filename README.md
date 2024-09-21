@@ -404,7 +404,7 @@ The United States presidential election of 1884 featured excessive mudslinging a
 
 His counterpart, Republican **James G. Blaine**, apparently engaged in questionable investment schemes while on the public payroll. Much of the campaign furor revolved around the difference between private and public misdeeds.
 
-On November 4, 1884, Cleveland narrowly defeated Blaine to become the first Democrat elected President of the United States in 28 years (before the American Civil War). 
+On November 4, 1884, Cleveland narrowly defeated Blaine to become the first Democrat elected President of the United States since James Buchanan 28 years ago (before the American Civil War). 
 
 New York decided the election, awarding Cleveland the state's 36 electors by just 1,047 votes.
 
