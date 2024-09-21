@@ -302,7 +302,19 @@ description:
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to John Breckinridge*
 
-## 1864
+## 1864 | Abraham Lincoln (R) v. George McClellan (D)
+
+Incumbent President Abraham Lincoln's chances for reelection appeared dim for much of 1864. More importantly, widespread criticism of his handling of the war weakened his stance. 
+
+The Union had suffered several disappointments and many blamed his strategy. Further, conservative forces in the North were outraged by the Emancipation Proclamation and feared its impact on the future of society. 
+
+Much maneuvering occurred in the Republican Party before the convention because of the president's apparent vulnerability. However, Lincoln was selected on the first ballot.
+
+The Democrats adopted a platform that called for a ceasefire and a negotiated settlement with the South. They nominated **George B. McClellan**, who promptly repudiated the platform and pledged to conduct the war more skillfully than his contender. 
+
+McClellan captured around 45% of the popular vote, but the electoral tally was a landslide for Lincoln.
+
+The 1864 election occurred during the Civil War: none of the states loyal to the Confederate States of America participated.
 
 ### Popular votes by candidate
 
