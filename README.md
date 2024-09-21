@@ -361,13 +361,6 @@ description:
 
 ## 1876 | Rutherford Hayes (R) v. Samuel Tilden (D)
 
-Incumbent President Rutherford Hayes did not run for re-election, thus fulfilling a promise made during the 1876 contest. The Republican Party ultimately chose **James A. Garfield**, as its candidate, while the Democratic Party nominated Civil War General **Winfield S. Hancock**.
-
-There was little debate on the major issues during the campaign. Both major parties tiptoed around the money question, avoided civil service reform, and supported high pensions for Civil War veterans as well as restrictions on immigration.
-
-The difference was in tariffs. Republicans favored higher tariffs, while Democrats supported lower ones.
-
-The popular vote was very close, one of the smallest margins in U.S. history, but the electoral tally openly favored Garfield by winning 214 of 369 electoral votes.
 
 ### Popular votes by candidate
 
@@ -388,13 +381,13 @@ The popular vote was very close, one of the smallest margins in U.S. history, bu
 
 ## 1880 | James Garfield (R) v. Winfield Hancock (D)
 
-Incumbent President Rutherford Hayes did not seek re-election, keeping a promise made during the 1876 race. The Republican Party eventually chose **James A. Garfield**, as their standard-bearer. The Democratic Party chose Civil War General **Winfield S. Hancock** as their nominee. 
+Incumbent President Rutherford Hayes did not run for re-election, thus fulfilling a promise made during the 1876 contest. The Republican Party ultimately chose **James A. Garfield**, as its candidate, while the Democratic Party nominated Civil War General **Winfield S. Hancock**.
 
-The campaign yielded little discussion on the hard issues. Both major parties tip-toed around the currency issue, avoided civil service reform, supported immigration restriction and hefty pensions for Civil War veterans. 
+There was little debate on the major issues during the campaign. Both major parties tiptoed around the money question, avoided civil service reform, and supported high pensions for Civil War veterans as well as restrictions on immigration.
 
-However, the Republicans favored higher tariffs while the Democrats supported lower ones.
+The difference was in tariffs. Republicans favored higher tariffs, while Democrats supported lower ones.
 
-The popular vote was very close, but the electoral tally was decisively in favor of Garfield, capturing 214 out of 369 electoral votes. It is one of the smallest popular vote margins in American history.
+The popular vote was very close, one of the smallest margins in U.S. history, but the electoral tally openly favored Garfield by winning 214 of 369 electoral votes.
 
 ### Popular votes by candidate
 
