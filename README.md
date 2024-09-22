@@ -21,7 +21,17 @@ description:
   }}
  />
 
-## 1804
+## 1804 | Thomas Jefferson (DR) v. Charles C. Pinckney (F)
+
+The 1804 presidential election pitted incumbent Democratic-Republican President **Thomas Jefferson** against Federalist **Charles Cotesworth Pinckney**. 
+
+It was the first election conducted following the [ratification of the Twelfth Amendment](https://www.reaganlibrary.gov/constitutional-amendments-amendment-12-electing-president-and-vice-president) to the United States Constitution.
+
+Under the rules of the Twelfth Amendment, presidential electors had to specify in their votes their choice for President and Vice President. Previously, electors voted only for the President, with the person who came in second becoming the Vice President. 
+
+Jefferson easily defeated Pinckney. His 45.6 percentage point victory margin remains the highest victory margin in a presidential election in which there were multiple major party candidates. The Federalists took only Connecticut, Delaware, and Maryland.
+
+George Clinton was elected Vice President and served under Jefferson and his successor, James Madison.
 
 ### Popular votes by candidate
 
