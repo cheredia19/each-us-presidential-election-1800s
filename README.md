@@ -707,5 +707,6 @@ In the early fall of 1896, many observers believed Bryan was the frontrunner, bu
 ##### You may be interested in
 
 - [Facts and figures of the U.S. presidential elections](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures)
+- [Each U.S. presidential election (1789-1796)](https://datahub.io/@cheredia19/us-presidential-elections-1700s)
 - [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
 - [Each U.S. presidential election (2000-2020)](https://datahub.io/@cheredia19/us-presidential-elections-2000s)
