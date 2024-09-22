@@ -1,9 +1,9 @@
 ---
-title: Each US presidential election (1800-1896)
+title: Each U.S. presidential election (1800-1896)
 description: 
 ---
 
-## 1800
+## 1800 | Thomas Jefferson (DR) v. John Adams (F)
 
 ### Popular votes by candidate
 
