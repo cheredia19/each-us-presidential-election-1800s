@@ -39,7 +39,7 @@ description:
   }}
  />
 
-## 1808
+## 1808 | James Madison (DR) v. Charles C. Pinckney (F)
 
 ### Popular votes by candidate
 
