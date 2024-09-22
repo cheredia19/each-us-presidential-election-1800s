@@ -112,7 +112,7 @@ description:
   }}
  />
 
-## 1824
+## 1824 | John Quincy Adams v. Andrew Jackson, Henry Clay and William H. Crawford (DR)
 
 The 1824 election was a historic event for several reasons. No candidate achieved the electoral vote majority, so the contest was decided by the House of Representatives. It was the only time since the passage of the [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/) that such thing happened.
 
