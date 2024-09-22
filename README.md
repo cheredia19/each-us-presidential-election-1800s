@@ -150,7 +150,14 @@ description:
  />
 *(1)DELAWARE: 3 electors were chosen by state legislature and awarded to John Quincy Adams<br />(2)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson*
 
-## 1832
+## 1832 | Andrew Jackson (D) v. Henry Clay (NR) and William Wirt (AM)
+
+The 1932 presidential election saw incumbent President **Andrew Jackson** seek reelection against **Henry Clay**,  from the National-Republican Party and Anti-Masonic Party nominee **William Wirt**. **John Floyd**, who was not running, received the electoral votes of South Carolina.
+
+It was the first time a Democratic convention occurred as the party evolved out of the Democratic-Republican party.
+
+Jackson comfortably won 219 of the 286 electoral votes cast and received 54.2% of the popular vote.
+
 
 ### Popular votes by candidate
 
