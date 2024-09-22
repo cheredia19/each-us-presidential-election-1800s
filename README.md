@@ -95,6 +95,20 @@ description:
 
 ## 1820 | James Monroe v. John Quincy Adams (DR)
 
+The 1820 presidential election of the United States was the third and last one in history in which a candidate ran effectively unopposed. 
+
+Despite the continuation of single-party politics (known as the [Era of Good Feelings](https://www.britannica.com/event/Era-of-Good-Feelings)), serious issues emerged during this race.
+
+The nation had endured a widespread depression following the [Panic of 1819](https://www.moaf.org/exhibits/checks_balances/andrew-jackson/materials/Panic_of_1819.pdf), and the extension of slavery into the territories was taking center stage. 
+
+Still, incumbent President **James Monroe** faced no opposition party or candidate in his reelection bid, although he did not receive all the electoral votes. 
+
+According to a story of the time, an elector from New Hampshire cast a single ballot for **John Quincy Adams** to ensure that George Washington would be the only unanimous President.
+
+That elector was William Plummer, who felt Monroe had been an ineffective president and did not deserve a second term. 
+
+The previous two times a candidate ran without serious opposition were in 1789 and 1792, when the *father of the country*, George Washington, was elected President unanimously.
+
 ### Popular votes by candidate
 
 <FlatUiTable
