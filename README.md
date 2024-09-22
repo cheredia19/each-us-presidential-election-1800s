@@ -695,3 +695,14 @@ In the early fall of 1896, many observers believed Bryan was the frontrunner, bu
     url: '1896_elec_pop.csv'
   }}
  />
+
+##### Data sources
+
+- [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
+- [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the University of California Santa Barbara
+- [Electoral College Results](https://www.archives.gov/electoral-college) | National Archives
+
+##### You may be interested in
+
+- [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
+- [Each U.S. presidential election (2000-2020)](https://datahub.io/@cheredia19/us-presidential-elections-2000s)
