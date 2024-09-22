@@ -93,7 +93,7 @@ description:
   }}
  />
 
-## 1820
+## 1820 | James Monroe v. John Quincy Adams (DR)
 
 ### Popular votes by candidate
 
@@ -124,7 +124,7 @@ The previous few years had seen a one-party government in the United States, as 
 
 Such splintering had not yet led to formal party organization, but later, the faction led by **Andrew Jackson** would evolve into the Democratic Party. The factions led by **John Quincy Adams** and **Henry Clay** would become the National Republican Party and later the Whig Party.
 
-Clay was out of contention. William H. Crawford was an unlikely prospect because of a serious illness. Jackson was expected to win, figuring that the House of Representatives would act to confirm his strong showing. 
+Clay was out of contention. **William H. Crawford** was an unlikely prospect because of a serious illness. Jackson was expected to win, figuring that the House of Representatives would act to confirm his strong showing. 
 
 However, Clay, as Speaker of the House, used his influence to sway the vote to Adams. Although they were not close, Clay knew that he and Adams shared a common political philosophy. 
 
