@@ -5,6 +5,16 @@ description:
 
 ## 1800 | Thomas Jefferson (DR) v. John Adams (F)
 
+The 1800 election, also known as the [Revolution of 1800](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=2978), was a realigning event that ushered in a generation of Republican Party rule and the eventual demise of the Federalist Party in the First Party System. 
+
+It was a lengthy, bitter rematch of the 1796 election between the pro-French and pro-decentralization Republicans under **Thomas Jefferson** and Aaron Burr against incumbent **John Adams** and Charles Pinckney's pro-British and pro-centralization Federalists.
+
+Central issues included opposition to the tax imposed by Congress to pay for the mobilization of the new army and the navy in the [Quasi-War against France in 1798](https://ussconstitutionmuseum.org/major-events/the-quasi-war-with-france/) and the [Alien and Sedition Acts](https://www.archives.gov/milestone-documents/alien-and-sedition-acts), by which Federalists were trying to stifle dissent, especially by Republican newspaper editors. 
+
+While the Republicans were well organized at the state and local levels, the Federalists were disorganized and suffered a bitter split between their two leaders, President Adams and Alexander Hamilton. 
+
+In the end, incumbent Vice President Thomas Jefferson defeated President John Adams.
+
 ### Popular votes by candidate
 
 <FlatUiTable
