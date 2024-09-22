@@ -41,6 +41,14 @@ description:
 
 ## 1808 | James Madison (DR) v. Charles C. Pinckney (F)
 
+In the 1808 presidential election, Democratic-Republican candidate **James Madison** defeated Federalist Charles Cotesworth Pinckney. 
+
+Madison served as United States Secretary of State under incumbent Thomas Jefferson, and Pinckney was the unsuccessful Federalist candidate in the election of 1804.
+
+Sitting Vice President **George Clinton**, who had served under Thomas Jefferson, also ran. He garnered six electoral votes from a wing of the Democratic-Republican Party that disapproved of Madison.
+
+This election was the first of only two instances in American history in which a new President would be selected but the incumbent Vice President continued to serve (the re-election of John C. Calhoun in 1828 was the other instance).
+
 ### Popular votes by candidate
 
 <FlatUiTable
