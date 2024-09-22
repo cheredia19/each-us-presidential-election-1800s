@@ -131,7 +131,17 @@ description:
  />
 *(1)DELAWARE: 3 electors were chosen by state legislature: 2 for William Crawford; 1 for John Quincy Adams<br />(2)GEORGIA: 9 electors were chosen by state legislature and awarded to Crawford<br />(3)LOUISIANA: 5 electors were chosen by state legislature: 3 for Andrew Jackson; 2 for Adams<br />(4)NEW YORK: 36 electors were chosen by state legislature: 26 to Adams; 1 to Jackson; 4 to Henry Clay; 5 to Crawford<br />(5)SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Andrew Jackson<br />(6)VERMONT: 7 electors were chosen by state legislature and awarded to John Quincy Adams*
 
-## 1828
+## 1828 | Andrew Jackson (D) v. John Quincy Adams (NR)
+
+The 1824 election had left supporters of **Andrew Jackson** bitterly disappointed. He had garnered the most electoral votes but had been denied the presidency by the House of Representatives. 
+
+This time, a rematch was held between Jackson and incumbent President **John Quincy Adams**. 
+
+Unlike four years ago, no other big names appeared in the race, allowing Jackson to consolidate a power base and easily win an electoral victory over Adams. 
+
+The Democratic Party drew support from the existing supporters of Jackson and their coalition with the supporters of William Crawford (the "Old Republicans") and Vice President John C. Calhoun.
+
+The 1828 election was unique in that nominations were no longer made by Congressional caucuses but by conventions and state legislatures.
 
 ### Popular votes by candidate
 
