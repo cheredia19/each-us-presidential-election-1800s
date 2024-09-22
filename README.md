@@ -75,7 +75,17 @@ description:
   }}
  />
 
-## 1816
+## 1816 | James Monroe (DR) v. Rufus King (F)
+
+The election of 1816 came at the end of the two-term presidency of Democratic-Republican James Madison. With the opposition Federalist Party in collapse, Madison's Secretary of State, **James Monroe**, had an advantage in winning the nomination against a divided opposition. 
+
+And Monroe took advantage of the opportunity. He won the Electoral College by a wide margin (183 to 34).
+
+**Rufus King** was the last Federalist to seek the presidency. King was notable only for his outspoken opposition to slavery. 
+
+The previous four years were dominated by the [War of 1812](https://www.britannica.com/event/War-of-1812). While it had not ended in victory, the peace was nonetheless satisfactory to the American people, and the Democratic-Republicans received the credit for its prosecution. 
+
+In the meantime, the Federalists had been discredited by their opposition to the war and secessionist rhetoric from New England.
 
 ### Popular votes by candidate
 
