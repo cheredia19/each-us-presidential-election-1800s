@@ -114,6 +114,22 @@ description:
 
 ## 1824
 
+The 1824 election was a historic event for several reasons. No candidate achieved the electoral vote majority, so the contest was decided by the House of Representatives. It was the only time since the passage of the [Twelfth Amendment](https://constitution.congress.gov/constitution/amendment-12/) that such thing happened.
+
+Also, it was the only election in which the candidate receiving the most electoral votes did not become president. 
+
+It was also often said to be the first election in which the president did not win the popular vote, although not being measured nationwide. Several states did not conduct a popular vote then, allowing their state legislature to choose their electors.
+
+The previous few years had seen a one-party government in the United States, as the Federalist Party had dissolved, leaving only the Democratic-Republican Party. Four separate candidates sought the presidency.
+
+Such splintering had not yet led to formal party organization, but later, the faction led by **Andrew Jackson** would evolve into the Democratic Party. The factions led by **John Quincy Adams** and **Henry Clay** would become the National Republican Party and later the Whig Party.
+
+Clay was out of contention. William H. Crawford was an unlikely prospect because of a serious illness. Jackson was expected to win, figuring that the House of Representatives would act to confirm his strong showing. 
+
+However, Clay, as Speaker of the House, used his influence to sway the vote to Adams. Although they were not close, Clay knew that he and Adams shared a common political philosophy. 
+
+John Quincy Adams prevailed on the first ballot in the House of Representatives, became the nation's sixth president, and subsequently appointed Clay Secretary of State.
+
 ### Popular votes by candidate
 
 <FlatUiTable
