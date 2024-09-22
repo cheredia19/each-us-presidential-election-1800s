@@ -57,7 +57,15 @@ description:
   }}
  />
  
-## 1812
+## 1812 | James Madison (DR) v. DeWitt Clinton (F)
+
+The 1812 presidential election took place in the shadow of the war that erupted that year.
+
+**James Madison**, the Democratic-Republican incumbent, sought a second term. Federalist candidate, **DeWitt Clinton**, challenged Madison.
+
+The [War of 1812](https://www.britannica.com/event/War-of-1812) was the prime issue. The Federalists were generally against the conflict but managed to criticize Madison for the setbacks encountered in the early going.
+
+The poor showing of American soldiers in the war's first months largely contributed to the election's close result.
 
 ### Popular votes by candidate
 
@@ -83,7 +91,7 @@ And Monroe took advantage of the opportunity. He won the Electoral College by a 
 
 **Rufus King** was the last Federalist to seek the presidency. King was notable only for his outspoken opposition to slavery. 
 
-The previous four years were dominated by the [War of 1812](https://www.britannica.com/event/War-of-1812). While it had not ended in victory, the peace was nonetheless satisfactory to the American people, and the Democratic-Republicans received the credit for its prosecution. 
+The previous four years were dominated by the War of 1812. While it had not ended in victory, the peace was nonetheless satisfactory to the American people, and the Democratic-Republicans received the credit for its prosecution. 
 
 In the meantime, the Federalists had been discredited by their opposition to the war and secessionist rhetoric from New England.
 
